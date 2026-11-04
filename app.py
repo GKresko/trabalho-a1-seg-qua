@@ -2,6 +2,7 @@
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
+import plotly.express as px
 import seaborn as sns
 from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import RandomForestRegressor
@@ -12,9 +13,9 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
 ARQUIVO = "dados.csv"  # base de dados persistida em disco
-ALVO = "preco"         # coluna que o modelo aprende a prever
+ALVO = "vendas"        # coluna que o modelo aprende a prever
 
-st.title("Previsão de preço de imóveis")
+st.title("Previsão de vendas de TVs por ano")
 
 # ---------- Dados: carrega o CSV e permite adicionar novos dados ----------
 # O session_state mantém o DataFrame entre as interações (o Streamlit
@@ -43,11 +44,21 @@ st.header("Análise dos dados")
 st.write(f"{len(df)} registros | cidades: {', '.join(sorted(df['cidade'].unique()))}")
 st.dataframe(df.describe())  # estatísticas descritivas das colunas numéricas
 
-# Dois gráficos lado a lado: preço por cidade e relação área x preço
+# Total de vendas por cidade, usado nos gráficos de barra e pizza
+por_cidade = df.groupby("cidade")[ALVO].sum()
+
+# Gráficos de barra (total por cidade) e pizza (participação de cada cidade)
 fig, ax = plt.subplots(1, 2, figsize=(10, 4))
-sns.boxplot(data=df, x="cidade", y=ALVO, ax=ax[0])
-sns.scatterplot(data=df, x="area", y=ALVO, hue="cidade", ax=ax[1])
+sns.barplot(x=por_cidade.index, y=por_cidade.values, ax=ax[0])
+ax[0].set_title("Total de TVs vendidas por cidade")
+ax[1].pie(por_cidade.values, labels=por_cidade.index, autopct="%1.1f%%")
+ax[1].set_title("Participação por cidade")
 st.pyplot(fig)
+
+# Gráfico interativo (plotly): passe o mouse, dê zoom e clique na legenda para filtrar cidades
+por_ano = df.groupby(["ano", "cidade"], as_index=False)[ALVO].sum()
+st.plotly_chart(px.line(por_ano, x="ano", y=ALVO, color="cidade", markers=True,
+                        title="TVs vendidas por ano"))
 
 # ---------- Configuração e (re)treino do modelo ----------
 st.header("Modelo")
@@ -73,20 +84,20 @@ if st.button("Treinar / Re-treinar modelo"):
     modelo = Pipeline([("prep", prep), ("modelo", regressor)]).fit(X_tr, y_tr)
     pred = modelo.predict(X_te)
     st.session_state.modelo = modelo
-    # R² (quanto da variação o modelo explica) e MAE (erro médio em R$)
+    # R² (quanto da variação o modelo explica) e MAE (erro médio em unidades)
     st.session_state.metricas = (r2_score(y_te, pred), mean_absolute_error(y_te, pred))
 
 if "metricas" in st.session_state:
     r2, mae = st.session_state.metricas
-    st.success(f"Modelo treinado — R²: {r2:.3f} | MAE: R$ {mae:,.0f}")
+    st.success(f"Modelo treinado — R²: {r2:.3f} | MAE: {mae:,.0f}")
 
     # ---------- Predição ----------
     st.header("Predição")
     cidade = st.selectbox("Cidade", sorted(df["cidade"].unique()))
-    area = st.number_input("Área (m²)", 20, 500, 80)
-    quartos = st.number_input("Quartos", 1, 10, 2)
+    ano = st.number_input("Ano", 2015, 2050, 2025)
+    preco = st.number_input("Preço médio da TV (R$)", 500, 10000, 2500)
     # Monta uma linha com as mesmas colunas usadas no treino (sem o alvo)
-    entrada = pd.DataFrame([{"cidade": cidade, "area": area, "quartos": quartos}])
-    st.metric("Preço previsto", f"R$ {st.session_state.modelo.predict(entrada)[0]:,.0f}")
+    entrada = pd.DataFrame([{"cidade": cidade, "ano": ano, "preco_medio": preco}])
+    st.metric("Vendas previstas (TVs/ano)", f"{st.session_state.modelo.predict(entrada)[0]:,.0f}")
 else:
     st.info("Treine o modelo para habilitar predições.")
