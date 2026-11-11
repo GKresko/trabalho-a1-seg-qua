@@ -1,301 +1,501 @@
-cidade,ano,preco_medio,vendas
-Curitiba,2015,2860.94,712
-Curitiba,2015,2950.09,782
-Curitiba,2015,2409.79,746
-Curitiba,2015,2825.57,744
-Curitiba,2015,2796.64,726
-Curitiba,2015,2975.88,773
-Curitiba,2015,2813.21,803
-Curitiba,2015,2893.5,716
-Curitiba,2015,2873.75,714
-Curitiba,2015,2975.69,740
-Curitiba,2016,2683.03,792
-Curitiba,2016,2964.51,785
-Curitiba,2016,2634.33,810
-Curitiba,2016,2826.46,819
-Curitiba,2016,2802.55,824
-Curitiba,2016,3148.33,756
-Curitiba,2016,2617.55,793
-Curitiba,2016,2843.2,848
-Curitiba,2016,2697.21,784
-Curitiba,2016,2555.1,858
-Curitiba,2017,2788.65,878
-Curitiba,2017,2506.9,894
-Curitiba,2017,2663.34,878
-Curitiba,2017,2814.29,863
-Curitiba,2017,2775.78,861
-Curitiba,2017,2697.82,891
-Curitiba,2017,2348.57,888
-Curitiba,2017,2545.93,855
-Curitiba,2017,2584.97,937
-Curitiba,2017,2466.83,928
-Curitiba,2018,2223.43,948
-Curitiba,2018,2592.55,948
-Curitiba,2018,2702.25,945
-Curitiba,2018,2490.25,916
-Curitiba,2018,2731.6,903
-Curitiba,2018,2304.86,908
-Curitiba,2018,2376.11,966
-Curitiba,2018,2588.49,952
-Curitiba,2018,2474.55,942
-Curitiba,2018,2685.12,903
-Curitiba,2019,2571.36,948
-Curitiba,2019,2407.39,975
-Curitiba,2019,2240.83,1027
-Curitiba,2019,2386.12,993
-Curitiba,2019,2576.15,992
-Curitiba,2019,2613.08,966
-Curitiba,2019,2395.34,989
-Curitiba,2019,2142.53,959
-Curitiba,2019,2215.46,970
-Curitiba,2019,2559.95,939
-Curitiba,2020,2324.37,1099
-Curitiba,2020,2328.75,1076
-Curitiba,2020,2213.28,1050
-Curitiba,2020,2210.0,1045
-Curitiba,2020,2568.06,954
-Curitiba,2020,2486.88,1040
-Curitiba,2020,2281.17,994
-Curitiba,2020,2414.43,1017
-Curitiba,2020,2446.54,1036
-Curitiba,2020,2720.36,998
-Curitiba,2021,2115.3,1123
-Curitiba,2021,2364.0,1145
-Curitiba,2021,2487.02,1093
-Curitiba,2021,2612.66,1019
-Curitiba,2021,2192.05,1071
-Curitiba,2021,2242.04,1048
-Curitiba,2021,2447.03,1074
-Curitiba,2021,2025.84,1084
-Curitiba,2021,2382.7,1123
-Curitiba,2021,2719.35,1172
-Curitiba,2022,2322.88,1104
-Curitiba,2022,1813.59,1205
-Curitiba,2022,2077.41,1151
-Curitiba,2022,2117.58,1158
-Curitiba,2022,2453.2,1136
-Curitiba,2022,2208.27,1113
-Curitiba,2022,1905.06,1166
-Curitiba,2022,2229.24,1223
-Curitiba,2022,2266.05,1188
-Curitiba,2022,2140.14,1114
-Curitiba,2023,1966.98,1198
-Curitiba,2023,2585.69,1132
-Curitiba,2023,2327.7,1155
-Curitiba,2023,2346.31,1204
-Curitiba,2023,2128.67,1209
-Curitiba,2023,2029.04,1238
-Curitiba,2023,2069.0,1168
-Curitiba,2023,1904.41,1240
-Curitiba,2023,2475.82,1182
-Curitiba,2023,2136.27,1221
-Curitiba,2024,2341.2,1246
-Curitiba,2024,1997.81,1316
-Curitiba,2024,2165.75,1316
-Curitiba,2024,2116.65,1211
-Curitiba,2024,1806.37,1357
-Curitiba,2024,2424.73,1222
-Curitiba,2024,2003.36,1330
-Curitiba,2024,1858.59,1250
-Curitiba,2024,2208.67,1235
-Curitiba,2024,2078.98,1257
-Florianopolis,2015,2867.51,509
-Florianopolis,2015,2818.12,483
-Florianopolis,2015,2389.97,499
-Florianopolis,2015,2631.35,428
-Florianopolis,2015,2624.37,464
-Florianopolis,2015,2983.18,388
-Florianopolis,2015,2806.13,440
-Florianopolis,2015,2734.47,506
-Florianopolis,2015,2907.62,502
-Florianopolis,2015,2769.1,435
-Florianopolis,2016,2675.23,512
-Florianopolis,2016,2755.31,451
-Florianopolis,2016,2738.1,505
-Florianopolis,2016,3223.49,522
-Florianopolis,2016,2549.35,503
-Florianopolis,2016,2427.31,503
-Florianopolis,2016,2783.12,539
-Florianopolis,2016,2574.18,486
-Florianopolis,2016,2290.54,534
-Florianopolis,2016,2507.52,498
-Florianopolis,2017,2464.63,549
-Florianopolis,2017,2288.45,512
-Florianopolis,2017,3065.85,441
-Florianopolis,2017,2420.64,631
-Florianopolis,2017,3221.01,431
-Florianopolis,2017,2566.35,557
-Florianopolis,2017,2985.74,461
-Florianopolis,2017,2590.94,571
-Florianopolis,2017,2726.95,512
-Florianopolis,2017,2613.24,483
-Florianopolis,2018,2512.37,568
-Florianopolis,2018,2606.43,547
-Florianopolis,2018,2654.31,605
-Florianopolis,2018,2591.09,584
-Florianopolis,2018,2570.63,572
-Florianopolis,2018,2415.69,601
-Florianopolis,2018,2540.54,659
-Florianopolis,2018,2874.67,557
-Florianopolis,2018,2407.39,544
-Florianopolis,2018,2798.23,560
-Florianopolis,2019,2576.03,532
-Florianopolis,2019,2665.49,611
-Florianopolis,2019,2257.91,615
-Florianopolis,2019,2532.74,608
-Florianopolis,2019,2421.57,613
-Florianopolis,2019,2429.6,623
-Florianopolis,2019,2774.3,479
-Florianopolis,2019,2432.63,623
-Florianopolis,2019,2539.2,591
-Florianopolis,2019,2128.66,660
-Florianopolis,2020,2745.47,554
-Florianopolis,2020,2572.77,619
-Florianopolis,2020,2387.74,609
-Florianopolis,2020,2333.11,708
-Florianopolis,2020,2516.53,707
-Florianopolis,2020,2635.48,644
-Florianopolis,2020,2748.79,632
-Florianopolis,2020,2565.6,621
-Florianopolis,2020,2413.31,620
-Florianopolis,2020,2597.92,583
-Florianopolis,2021,2476.47,664
-Florianopolis,2021,2554.25,694
-Florianopolis,2021,2684.13,680
-Florianopolis,2021,2005.59,716
-Florianopolis,2021,2085.6,690
-Florianopolis,2021,2622.25,683
-Florianopolis,2021,2180.21,661
-Florianopolis,2021,2326.56,638
-Florianopolis,2021,2185.77,713
-Florianopolis,2021,2551.06,689
-Florianopolis,2022,1781.74,784
-Florianopolis,2022,2254.41,741
-Florianopolis,2022,2563.24,611
-Florianopolis,2022,2121.78,761
-Florianopolis,2022,1923.68,816
-Florianopolis,2022,2313.67,752
-Florianopolis,2022,2125.81,769
-Florianopolis,2022,2453.69,713
-Florianopolis,2022,2286.88,732
-Florianopolis,2022,2067.33,737
-Florianopolis,2023,2129.5,782
-Florianopolis,2023,2359.96,701
-Florianopolis,2023,2135.0,825
-Florianopolis,2023,2011.28,745
-Florianopolis,2023,2200.46,793
-Florianopolis,2023,2162.29,816
-Florianopolis,2023,2331.36,780
-Florianopolis,2023,2270.82,846
-Florianopolis,2023,2118.97,687
-Florianopolis,2023,2480.85,713
-Florianopolis,2024,2101.58,852
-Florianopolis,2024,1759.55,783
-Florianopolis,2024,1759.74,802
-Florianopolis,2024,2167.93,814
-Florianopolis,2024,2135.25,739
-Florianopolis,2024,1617.98,850
-Florianopolis,2024,1985.64,829
-Florianopolis,2024,2220.39,793
-Florianopolis,2024,2232.03,795
-Florianopolis,2024,2186.01,763
-Porto Alegre,2015,2764.08,621
-Porto Alegre,2015,2964.11,577
-Porto Alegre,2015,2904.23,588
-Porto Alegre,2015,2776.49,645
-Porto Alegre,2015,2401.39,598
-Porto Alegre,2015,2503.56,546
-Porto Alegre,2015,2664.35,653
-Porto Alegre,2015,2743.02,623
-Porto Alegre,2015,3017.84,641
-Porto Alegre,2015,2786.17,665
-Porto Alegre,2016,2738.43,621
-Porto Alegre,2016,2601.12,609
-Porto Alegre,2016,2542.37,660
-Porto Alegre,2016,2880.72,709
-Porto Alegre,2016,2443.56,700
-Porto Alegre,2016,2511.89,696
-Porto Alegre,2016,2693.78,586
-Porto Alegre,2016,2905.66,614
-Porto Alegre,2016,2613.22,624
-Porto Alegre,2016,2589.14,687
-Porto Alegre,2017,2602.15,720
-Porto Alegre,2017,2712.38,749
-Porto Alegre,2017,2571.44,651
-Porto Alegre,2017,2853.44,669
-Porto Alegre,2017,2862.92,697
-Porto Alegre,2017,2613.77,720
-Porto Alegre,2017,3030.2,748
-Porto Alegre,2017,2653.88,709
-Porto Alegre,2017,2855.25,648
-Porto Alegre,2017,2706.61,696
-Porto Alegre,2018,2622.78,711
-Porto Alegre,2018,2242.09,699
-Porto Alegre,2018,2336.52,755
-Porto Alegre,2018,2501.36,834
-Porto Alegre,2018,2781.2,690
-Porto Alegre,2018,2629.54,727
-Porto Alegre,2018,2503.13,764
-Porto Alegre,2018,2683.83,725
-Porto Alegre,2018,2772.77,684
-Porto Alegre,2018,2561.27,854
-Porto Alegre,2019,2524.62,850
-Porto Alegre,2019,2498.3,819
-Porto Alegre,2019,2468.64,792
-Porto Alegre,2019,2324.1,830
-Porto Alegre,2019,2309.69,841
-Porto Alegre,2019,2697.06,790
-Porto Alegre,2019,2422.75,821
-Porto Alegre,2019,2418.27,841
-Porto Alegre,2019,2113.72,821
-Porto Alegre,2019,2081.84,778
-Porto Alegre,2020,2672.77,853
-Porto Alegre,2020,2256.1,799
-Porto Alegre,2020,1807.09,882
-Porto Alegre,2020,2884.08,813
-Porto Alegre,2020,2288.09,874
-Porto Alegre,2020,2087.81,864
-Porto Alegre,2020,2419.9,839
-Porto Alegre,2020,2558.16,842
-Porto Alegre,2020,2533.67,804
-Porto Alegre,2020,2579.56,892
-Porto Alegre,2021,2125.97,875
-Porto Alegre,2021,2587.16,857
-Porto Alegre,2021,2600.76,846
-Porto Alegre,2021,2611.01,868
-Porto Alegre,2021,2371.65,949
-Porto Alegre,2021,2247.65,861
-Porto Alegre,2021,2230.29,919
-Porto Alegre,2021,2006.85,948
-Porto Alegre,2021,2212.25,948
-Porto Alegre,2021,1841.15,908
-Porto Alegre,2022,1902.71,939
-Porto Alegre,2022,2289.53,926
-Porto Alegre,2022,2189.32,937
-Porto Alegre,2022,2280.68,894
-Porto Alegre,2022,2381.37,951
-Porto Alegre,2022,2317.01,953
-Porto Alegre,2022,2299.28,1014
-Porto Alegre,2022,2222.58,928
-Porto Alegre,2022,2089.29,912
-Porto Alegre,2022,1991.11,928
-Porto Alegre,2023,2145.86,1000
-Porto Alegre,2023,2170.23,954
-Porto Alegre,2023,2340.04,997
-Porto Alegre,2023,2128.07,963
-Porto Alegre,2023,2269.69,982
-Porto Alegre,2023,1870.37,1012
-Porto Alegre,2023,2212.41,944
-Porto Alegre,2023,2197.97,924
-Porto Alegre,2023,2427.24,1009
-Porto Alegre,2023,2109.5,1005
-Porto Alegre,2024,1598.02,1034
-Porto Alegre,2024,2021.24,995
-Porto Alegre,2024,2222.88,1098
-Porto Alegre,2024,1844.68,1023
-Porto Alegre,2024,2127.09,1092
-Porto Alegre,2024,1835.53,1067
-Porto Alegre,2024,2444.26,930
-Porto Alegre,2024,1823.79,1041
-Porto Alegre,2024,1975.88,1075
-Porto Alegre,2024,2128.33,957
+cidade,latitude,longitude,marca,tamanho,ano,preco_medio,vendas
+Curitiba,-25.43,-49.27,Samsung,65,2015,2969.0,773
+Curitiba,-25.43,-49.27,Samsung,55,2015,2582.34,729
+Curitiba,-25.43,-49.27,Sony,65,2015,3077.56,771
+Curitiba,-25.43,-49.27,Sony,43,2015,2706.91,840
+Curitiba,-25.43,-49.27,Sony,55,2015,3044.09,794
+Curitiba,-25.43,-49.27,LG,32,2015,2355.31,736
+Curitiba,-25.43,-49.27,Sony,65,2015,3117.51,760
+Curitiba,-25.43,-49.27,Sony,43,2015,2758.38,797
+Curitiba,-25.43,-49.27,Sony,65,2015,3072.18,794
+Curitiba,-25.43,-49.27,LG,32,2015,2361.91,791
+Curitiba,-25.43,-49.27,Sony,55,2016,2754.04,832
+Curitiba,-25.43,-49.27,Sony,43,2016,2607.4,912
+Curitiba,-25.43,-49.27,LG,32,2016,2113.98,813
+Curitiba,-25.43,-49.27,LG,55,2016,2926.49,787
+Curitiba,-25.43,-49.27,Sony,65,2016,3099.82,822
+Curitiba,-25.43,-49.27,Sony,43,2016,2645.71,872
+Curitiba,-25.43,-49.27,Sony,32,2016,2250.14,914
+Curitiba,-25.43,-49.27,Sony,55,2016,2596.43,855
+Curitiba,-25.43,-49.27,LG,43,2016,2419.17,805
+Curitiba,-25.43,-49.27,Samsung,32,2016,2110.13,915
+Curitiba,-25.43,-49.27,Sony,55,2017,2704.77,912
+Curitiba,-25.43,-49.27,LG,55,2017,2861.68,851
+Curitiba,-25.43,-49.27,LG,32,2017,2110.65,929
+Curitiba,-25.43,-49.27,Samsung,43,2017,2263.65,864
+Curitiba,-25.43,-49.27,Sony,32,2017,2254.57,956
+Curitiba,-25.43,-49.27,LG,55,2017,2690.91,843
+Curitiba,-25.43,-49.27,Sony,55,2017,2708.6,923
+Curitiba,-25.43,-49.27,Samsung,32,2017,2125.54,908
+Curitiba,-25.43,-49.27,Sony,55,2017,2828.05,874
+Curitiba,-25.43,-49.27,Sony,55,2017,2827.11,911
+Curitiba,-25.43,-49.27,LG,43,2018,2380.23,899
+Curitiba,-25.43,-49.27,Sony,55,2018,2441.9,921
+Curitiba,-25.43,-49.27,LG,32,2018,1970.41,972
+Curitiba,-25.43,-49.27,LG,55,2018,2638.28,942
+Curitiba,-25.43,-49.27,Samsung,65,2018,3055.63,841
+Curitiba,-25.43,-49.27,Sony,43,2018,2252.5,985
+Curitiba,-25.43,-49.27,Samsung,43,2018,2135.9,987
+Curitiba,-25.43,-49.27,Sony,55,2018,2605.88,905
+Curitiba,-25.43,-49.27,Samsung,65,2018,2865.58,906
+Curitiba,-25.43,-49.27,Samsung,55,2018,2935.27,880
+Curitiba,-25.43,-49.27,LG,32,2019,2086.89,1002
+Curitiba,-25.43,-49.27,Samsung,43,2019,2460.27,1000
+Curitiba,-25.43,-49.27,Sony,32,2019,1881.69,1058
+Curitiba,-25.43,-49.27,Samsung,65,2019,2826.53,894
+Curitiba,-25.43,-49.27,LG,55,2019,2601.67,883
+Curitiba,-25.43,-49.27,LG,43,2019,2382.03,997
+Curitiba,-25.43,-49.27,Samsung,43,2019,2772.08,971
+Curitiba,-25.43,-49.27,Samsung,55,2019,2315.19,1011
+Curitiba,-25.43,-49.27,Sony,43,2019,2272.7,1020
+Curitiba,-25.43,-49.27,Samsung,32,2019,2219.9,1016
+Curitiba,-25.43,-49.27,LG,32,2020,1844.65,998
+Curitiba,-25.43,-49.27,LG,55,2020,2566.93,1064
+Curitiba,-25.43,-49.27,Sony,65,2020,2972.41,1002
+Curitiba,-25.43,-49.27,Sony,32,2020,1855.23,1105
+Curitiba,-25.43,-49.27,LG,43,2020,2151.79,1068
+Curitiba,-25.43,-49.27,Sony,43,2020,2414.74,1093
+Curitiba,-25.43,-49.27,LG,55,2020,2568.89,966
+Curitiba,-25.43,-49.27,Samsung,32,2020,1931.75,1037
+Curitiba,-25.43,-49.27,Sony,65,2020,2850.89,1098
+Curitiba,-25.43,-49.27,Sony,65,2020,2807.2,1050
+Curitiba,-25.43,-49.27,LG,43,2021,2247.91,1056
+Curitiba,-25.43,-49.27,LG,43,2021,2279.31,1131
+Curitiba,-25.43,-49.27,LG,43,2021,2031.33,1040
+Curitiba,-25.43,-49.27,Samsung,32,2021,2198.55,1100
+Curitiba,-25.43,-49.27,Sony,32,2021,2159.22,1107
+Curitiba,-25.43,-49.27,Samsung,43,2021,2311.5,1081
+Curitiba,-25.43,-49.27,LG,55,2021,2490.48,1062
+Curitiba,-25.43,-49.27,Samsung,32,2021,1953.59,1158
+Curitiba,-25.43,-49.27,Sony,32,2021,1932.69,1141
+Curitiba,-25.43,-49.27,Sony,55,2021,2383.28,1116
+Curitiba,-25.43,-49.27,Samsung,55,2022,2256.04,1151
+Curitiba,-25.43,-49.27,LG,32,2022,1953.28,1131
+Curitiba,-25.43,-49.27,Sony,43,2022,2305.41,1206
+Curitiba,-25.43,-49.27,Samsung,65,2022,2681.82,1079
+Curitiba,-25.43,-49.27,LG,32,2022,1916.37,1161
+Curitiba,-25.43,-49.27,Sony,32,2022,1893.57,1235
+Curitiba,-25.43,-49.27,Samsung,65,2022,2986.53,1043
+Curitiba,-25.43,-49.27,Sony,65,2022,2485.48,1143
+Curitiba,-25.43,-49.27,Sony,32,2022,2060.88,1180
+Curitiba,-25.43,-49.27,Samsung,65,2022,2382.91,1131
+Curitiba,-25.43,-49.27,Sony,55,2023,2315.58,1197
+Curitiba,-25.43,-49.27,Samsung,55,2023,2131.34,1152
+Curitiba,-25.43,-49.27,LG,32,2023,1626.89,1187
+Curitiba,-25.43,-49.27,Sony,65,2023,3080.76,1109
+Curitiba,-25.43,-49.27,LG,55,2023,2446.23,1218
+Curitiba,-25.43,-49.27,Samsung,43,2023,2058.21,1249
+Curitiba,-25.43,-49.27,LG,32,2023,1763.58,1212
+Curitiba,-25.43,-49.27,LG,32,2023,1784.27,1204
+Curitiba,-25.43,-49.27,Samsung,32,2023,1736.7,1269
+Curitiba,-25.43,-49.27,LG,55,2023,2418.31,1166
+Curitiba,-25.43,-49.27,Sony,55,2024,2335.01,1249
+Curitiba,-25.43,-49.27,LG,32,2024,1745.41,1351
+Curitiba,-25.43,-49.27,LG,55,2024,2392.88,1172
+Curitiba,-25.43,-49.27,Samsung,43,2024,2074.17,1220
+Curitiba,-25.43,-49.27,Samsung,65,2024,2624.41,1228
+Curitiba,-25.43,-49.27,Sony,32,2024,1899.12,1340
+Curitiba,-25.43,-49.27,Samsung,65,2024,2514.27,1231
+Curitiba,-25.43,-49.27,LG,55,2024,2291.17,1208
+Curitiba,-25.43,-49.27,Sony,55,2024,2357.88,1335
+Curitiba,-25.43,-49.27,Sony,43,2024,1999.47,1319
+Florianopolis,-27.59,-48.55,Samsung,43,2015,2519.21,417
+Florianopolis,-27.59,-48.55,Samsung,43,2015,2834.1,395
+Florianopolis,-27.59,-48.55,LG,43,2015,2525.72,454
+Florianopolis,-27.59,-48.55,Samsung,55,2015,2824.83,509
+Florianopolis,-27.59,-48.55,Sony,65,2015,3384.85,488
+Florianopolis,-27.59,-48.55,LG,55,2015,3136.59,413
+Florianopolis,-27.59,-48.55,Samsung,65,2015,3080.51,434
+Florianopolis,-27.59,-48.55,Samsung,43,2015,2723.44,420
+Florianopolis,-27.59,-48.55,LG,55,2015,2846.4,472
+Florianopolis,-27.59,-48.55,LG,32,2015,2573.1,481
+Florianopolis,-27.59,-48.55,LG,65,2016,3054.96,387
+Florianopolis,-27.59,-48.55,Samsung,65,2016,3291.68,466
+Florianopolis,-27.59,-48.55,Sony,65,2016,2912.94,520
+Florianopolis,-27.59,-48.55,Sony,55,2016,2714.33,551
+Florianopolis,-27.59,-48.55,Samsung,55,2016,2906.31,387
+Florianopolis,-27.59,-48.55,Sony,55,2016,2825.81,543
+Florianopolis,-27.59,-48.55,LG,43,2016,2205.51,495
+Florianopolis,-27.59,-48.55,Sony,32,2016,2002.76,668
+Florianopolis,-27.59,-48.55,LG,55,2016,2941.99,422
+Florianopolis,-27.59,-48.55,Samsung,55,2016,2975.27,481
+Florianopolis,-27.59,-48.55,Sony,65,2017,3045.55,500
+Florianopolis,-27.59,-48.55,LG,43,2017,2432.12,542
+Florianopolis,-27.59,-48.55,Samsung,65,2017,2846.22,510
+Florianopolis,-27.59,-48.55,Samsung,55,2017,2643.46,502
+Florianopolis,-27.59,-48.55,LG,65,2017,3131.66,457
+Florianopolis,-27.59,-48.55,LG,65,2017,3133.52,490
+Florianopolis,-27.59,-48.55,LG,32,2017,2529.15,508
+Florianopolis,-27.59,-48.55,Samsung,32,2017,2420.64,539
+Florianopolis,-27.59,-48.55,LG,32,2017,2376.43,468
+Florianopolis,-27.59,-48.55,LG,43,2017,2214.81,516
+Florianopolis,-27.59,-48.55,Samsung,43,2018,2473.63,593
+Florianopolis,-27.59,-48.55,LG,32,2018,1773.48,624
+Florianopolis,-27.59,-48.55,Sony,43,2018,2463.91,651
+Florianopolis,-27.59,-48.55,LG,65,2018,2845.64,520
+Florianopolis,-27.59,-48.55,LG,32,2018,2154.38,605
+Florianopolis,-27.59,-48.55,Samsung,32,2018,2093.06,628
+Florianopolis,-27.59,-48.55,Sony,32,2018,2060.94,684
+Florianopolis,-27.59,-48.55,Sony,32,2018,2102.37,692
+Florianopolis,-27.59,-48.55,Sony,55,2018,2500.53,560
+Florianopolis,-27.59,-48.55,Samsung,65,2018,2843.26,575
+Florianopolis,-27.59,-48.55,Sony,65,2019,2914.67,652
+Florianopolis,-27.59,-48.55,Sony,65,2019,2874.63,666
+Florianopolis,-27.59,-48.55,LG,55,2019,2509.39,555
+Florianopolis,-27.59,-48.55,Sony,55,2019,2501.78,635
+Florianopolis,-27.59,-48.55,Samsung,55,2019,2893.12,515
+Florianopolis,-27.59,-48.55,LG,32,2019,1903.92,658
+Florianopolis,-27.59,-48.55,Samsung,65,2019,2610.36,636
+Florianopolis,-27.59,-48.55,LG,32,2019,1979.91,589
+Florianopolis,-27.59,-48.55,LG,43,2019,2399.18,582
+Florianopolis,-27.59,-48.55,Sony,55,2019,2689.29,683
+Florianopolis,-27.59,-48.55,LG,43,2020,2053.47,697
+Florianopolis,-27.59,-48.55,Samsung,55,2020,2742.19,631
+Florianopolis,-27.59,-48.55,LG,55,2020,2627.32,675
+Florianopolis,-27.59,-48.55,Samsung,32,2020,2010.41,695
+Florianopolis,-27.59,-48.55,Samsung,43,2020,2148.15,688
+Florianopolis,-27.59,-48.55,LG,55,2020,2622.09,564
+Florianopolis,-27.59,-48.55,Sony,32,2020,1689.05,716
+Florianopolis,-27.59,-48.55,Sony,32,2020,1956.02,811
+Florianopolis,-27.59,-48.55,Samsung,32,2020,1855.69,718
+Florianopolis,-27.59,-48.55,LG,55,2020,2532.35,614
+Florianopolis,-27.59,-48.55,LG,43,2021,2164.11,716
+Florianopolis,-27.59,-48.55,Samsung,43,2021,2215.95,802
+Florianopolis,-27.59,-48.55,Sony,55,2021,2729.98,690
+Florianopolis,-27.59,-48.55,Samsung,65,2021,2756.48,637
+Florianopolis,-27.59,-48.55,Samsung,65,2021,2829.55,602
+Florianopolis,-27.59,-48.55,LG,43,2021,2306.87,685
+Florianopolis,-27.59,-48.55,Sony,65,2021,2819.98,666
+Florianopolis,-27.59,-48.55,LG,43,2021,2168.7,710
+Florianopolis,-27.59,-48.55,Samsung,55,2021,2464.66,593
+Florianopolis,-27.59,-48.55,Sony,65,2021,2969.58,698
+Florianopolis,-27.59,-48.55,Samsung,55,2022,2229.62,608
+Florianopolis,-27.59,-48.55,LG,65,2022,3068.06,630
+Florianopolis,-27.59,-48.55,LG,43,2022,2224.76,635
+Florianopolis,-27.59,-48.55,Sony,43,2022,2169.92,769
+Florianopolis,-27.59,-48.55,Sony,32,2022,1931.7,823
+Florianopolis,-27.59,-48.55,Sony,32,2022,2014.67,853
+Florianopolis,-27.59,-48.55,Sony,55,2022,2321.85,811
+Florianopolis,-27.59,-48.55,LG,32,2022,2090.57,693
+Florianopolis,-27.59,-48.55,Samsung,32,2022,1899.72,770
+Florianopolis,-27.59,-48.55,LG,43,2022,2100.73,672
+Florianopolis,-27.59,-48.55,Samsung,65,2023,2712.85,646
+Florianopolis,-27.59,-48.55,Samsung,43,2023,2014.18,824
+Florianopolis,-27.59,-48.55,Sony,43,2023,1977.02,754
+Florianopolis,-27.59,-48.55,Sony,65,2023,2682.15,744
+Florianopolis,-27.59,-48.55,LG,55,2023,2371.12,721
+Florianopolis,-27.59,-48.55,Sony,43,2023,2201.03,826
+Florianopolis,-27.59,-48.55,Sony,65,2023,2728.48,759
+Florianopolis,-27.59,-48.55,Sony,65,2023,2631.94,744
+Florianopolis,-27.59,-48.55,Samsung,55,2023,2240.16,706
+Florianopolis,-27.59,-48.55,LG,43,2023,2017.93,712
+Florianopolis,-27.59,-48.55,Samsung,43,2024,2085.14,803
+Florianopolis,-27.59,-48.55,LG,32,2024,1895.03,820
+Florianopolis,-27.59,-48.55,Samsung,32,2024,1662.06,865
+Florianopolis,-27.59,-48.55,LG,43,2024,1817.78,795
+Florianopolis,-27.59,-48.55,LG,43,2024,1900.05,797
+Florianopolis,-27.59,-48.55,Sony,65,2024,2785.43,821
+Florianopolis,-27.59,-48.55,Sony,65,2024,2639.52,689
+Florianopolis,-27.59,-48.55,Samsung,65,2024,2540.93,713
+Florianopolis,-27.59,-48.55,Samsung,32,2024,2059.59,756
+Florianopolis,-27.59,-48.55,LG,55,2024,2370.32,807
+Porto Alegre,-30.03,-51.22,Samsung,65,2015,3162.36,646
+Porto Alegre,-30.03,-51.22,Sony,55,2015,2811.41,582
+Porto Alegre,-30.03,-51.22,Samsung,32,2015,2236.46,645
+Porto Alegre,-30.03,-51.22,Sony,65,2015,3161.25,542
+Porto Alegre,-30.03,-51.22,Samsung,43,2015,2488.37,692
+Porto Alegre,-30.03,-51.22,Samsung,55,2015,2779.51,633
+Porto Alegre,-30.03,-51.22,LG,65,2015,3192.21,473
+Porto Alegre,-30.03,-51.22,Sony,32,2015,2144.85,724
+Porto Alegre,-30.03,-51.22,Sony,55,2015,2941.95,603
+Porto Alegre,-30.03,-51.22,Sony,55,2015,2982.07,641
+Porto Alegre,-30.03,-51.22,Sony,32,2016,2457.68,705
+Porto Alegre,-30.03,-51.22,LG,32,2016,2280.34,646
+Porto Alegre,-30.03,-51.22,LG,32,2016,2159.98,666
+Porto Alegre,-30.03,-51.22,LG,55,2016,2658.91,536
+Porto Alegre,-30.03,-51.22,LG,43,2016,2897.4,593
+Porto Alegre,-30.03,-51.22,Sony,55,2016,2768.43,680
+Porto Alegre,-30.03,-51.22,LG,65,2016,2897.99,632
+Porto Alegre,-30.03,-51.22,Sony,43,2016,2290.84,767
+Porto Alegre,-30.03,-51.22,LG,65,2016,3090.79,576
+Porto Alegre,-30.03,-51.22,LG,32,2016,2332.29,596
+Porto Alegre,-30.03,-51.22,Samsung,43,2017,2396.43,802
+Porto Alegre,-30.03,-51.22,LG,32,2017,2430.18,650
+Porto Alegre,-30.03,-51.22,LG,32,2017,2227.91,680
+Porto Alegre,-30.03,-51.22,Sony,55,2017,2936.88,701
+Porto Alegre,-30.03,-51.22,Sony,65,2017,3002.37,671
+Porto Alegre,-30.03,-51.22,Sony,43,2017,2442.76,695
+Porto Alegre,-30.03,-51.22,LG,43,2017,2527.31,664
+Porto Alegre,-30.03,-51.22,Sony,55,2017,2872.73,731
+Porto Alegre,-30.03,-51.22,Samsung,43,2017,2257.48,775
+Porto Alegre,-30.03,-51.22,Samsung,32,2017,2537.39,731
+Porto Alegre,-30.03,-51.22,Samsung,65,2018,2919.96,747
+Porto Alegre,-30.03,-51.22,Sony,43,2018,2582.76,767
+Porto Alegre,-30.03,-51.22,Samsung,65,2018,2869.87,702
+Porto Alegre,-30.03,-51.22,LG,32,2018,2238.62,813
+Porto Alegre,-30.03,-51.22,LG,55,2018,2631.28,726
+Porto Alegre,-30.03,-51.22,Sony,43,2018,2537.81,703
+Porto Alegre,-30.03,-51.22,Sony,32,2018,2002.64,753
+Porto Alegre,-30.03,-51.22,LG,32,2018,1982.73,770
+Porto Alegre,-30.03,-51.22,Sony,43,2018,2358.24,769
+Porto Alegre,-30.03,-51.22,LG,43,2018,2552.38,682
+Porto Alegre,-30.03,-51.22,LG,32,2019,2143.78,792
+Porto Alegre,-30.03,-51.22,Samsung,43,2019,2332.95,840
+Porto Alegre,-30.03,-51.22,LG,65,2019,2883.19,719
+Porto Alegre,-30.03,-51.22,Samsung,43,2019,2100.48,863
+Porto Alegre,-30.03,-51.22,LG,65,2019,2731.66,738
+Porto Alegre,-30.03,-51.22,Samsung,43,2019,1992.89,786
+Porto Alegre,-30.03,-51.22,Sony,55,2019,2854.18,811
+Porto Alegre,-30.03,-51.22,Samsung,65,2019,2713.98,729
+Porto Alegre,-30.03,-51.22,Sony,55,2019,2643.74,843
+Porto Alegre,-30.03,-51.22,Samsung,32,2019,2101.72,842
+Porto Alegre,-30.03,-51.22,Sony,32,2020,2121.05,848
+Porto Alegre,-30.03,-51.22,Sony,55,2020,2725.26,899
+Porto Alegre,-30.03,-51.22,Samsung,55,2020,2296.02,859
+Porto Alegre,-30.03,-51.22,Samsung,65,2020,3094.64,796
+Porto Alegre,-30.03,-51.22,Sony,65,2020,2691.03,856
+Porto Alegre,-30.03,-51.22,Samsung,65,2020,2672.74,899
+Porto Alegre,-30.03,-51.22,Sony,65,2020,2995.41,788
+Porto Alegre,-30.03,-51.22,Samsung,43,2020,2370.94,865
+Porto Alegre,-30.03,-51.22,Samsung,32,2020,2095.31,905
+Porto Alegre,-30.03,-51.22,Sony,32,2020,2051.12,848
+Porto Alegre,-30.03,-51.22,LG,32,2021,1856.57,857
+Porto Alegre,-30.03,-51.22,Sony,55,2021,2774.35,940
+Porto Alegre,-30.03,-51.22,Samsung,65,2021,2967.59,827
+Porto Alegre,-30.03,-51.22,Sony,32,2021,1775.98,1002
+Porto Alegre,-30.03,-51.22,Sony,55,2021,2319.6,929
+Porto Alegre,-30.03,-51.22,Sony,32,2021,2209.63,978
+Porto Alegre,-30.03,-51.22,LG,32,2021,1977.32,898
+Porto Alegre,-30.03,-51.22,LG,55,2021,2352.64,852
+Porto Alegre,-30.03,-51.22,Sony,32,2021,1752.45,1009
+Porto Alegre,-30.03,-51.22,LG,55,2021,2246.99,864
+Porto Alegre,-30.03,-51.22,Samsung,55,2022,2613.88,942
+Porto Alegre,-30.03,-51.22,Sony,43,2022,2028.24,956
+Porto Alegre,-30.03,-51.22,LG,43,2022,2211.89,963
+Porto Alegre,-30.03,-51.22,Sony,55,2022,2435.17,909
+Porto Alegre,-30.03,-51.22,Samsung,43,2022,2187.58,936
+Porto Alegre,-30.03,-51.22,Samsung,65,2022,2742.93,868
+Porto Alegre,-30.03,-51.22,Sony,32,2022,1926.72,994
+Porto Alegre,-30.03,-51.22,Samsung,55,2022,2495.98,867
+Porto Alegre,-30.03,-51.22,Samsung,32,2022,2095.67,906
+Porto Alegre,-30.03,-51.22,LG,43,2022,1875.72,946
+Porto Alegre,-30.03,-51.22,LG,43,2023,2077.36,1012
+Porto Alegre,-30.03,-51.22,LG,55,2023,2454.39,989
+Porto Alegre,-30.03,-51.22,LG,32,2023,1763.03,965
+Porto Alegre,-30.03,-51.22,Sony,65,2023,2596.06,1039
+Porto Alegre,-30.03,-51.22,LG,55,2023,2344.61,1013
+Porto Alegre,-30.03,-51.22,Sony,43,2023,2358.05,1002
+Porto Alegre,-30.03,-51.22,LG,43,2023,2149.82,1084
+Porto Alegre,-30.03,-51.22,LG,55,2023,2288.91,981
+Porto Alegre,-30.03,-51.22,LG,65,2023,2571.54,951
+Porto Alegre,-30.03,-51.22,LG,43,2023,2136.79,958
+Porto Alegre,-30.03,-51.22,Samsung,32,2024,1823.74,981
+Porto Alegre,-30.03,-51.22,Samsung,65,2024,2437.7,939
+Porto Alegre,-30.03,-51.22,LG,65,2024,2597.6,923
+Porto Alegre,-30.03,-51.22,LG,32,2024,1558.67,1038
+Porto Alegre,-30.03,-51.22,Samsung,43,2024,2028.01,1049
+Porto Alegre,-30.03,-51.22,Samsung,43,2024,2143.64,1029
+Porto Alegre,-30.03,-51.22,Sony,43,2024,1741.21,1106
+Porto Alegre,-30.03,-51.22,Samsung,43,2024,2019.49,1037
+Porto Alegre,-30.03,-51.22,Sony,65,2024,2727.15,963
+Porto Alegre,-30.03,-51.22,LG,65,2024,2421.0,980
+Sao Paulo,-23.55,-46.63,Sony,43,2015,2510.3,1128
+Sao Paulo,-23.55,-46.63,Sony,65,2015,3000.04,1157
+Sao Paulo,-23.55,-46.63,LG,32,2015,2305.79,1166
+Sao Paulo,-23.55,-46.63,Samsung,65,2015,3023.6,1103
+Sao Paulo,-23.55,-46.63,Sony,43,2015,2344.65,1261
+Sao Paulo,-23.55,-46.63,Samsung,65,2015,3102.88,1193
+Sao Paulo,-23.55,-46.63,LG,65,2015,3434.04,1057
+Sao Paulo,-23.55,-46.63,Sony,32,2015,2310.49,1205
+Sao Paulo,-23.55,-46.63,LG,32,2015,2359.55,1196
+Sao Paulo,-23.55,-46.63,Samsung,32,2015,2448.11,1241
+Sao Paulo,-23.55,-46.63,LG,65,2016,2920.56,1211
+Sao Paulo,-23.55,-46.63,Sony,32,2016,1957.88,1343
+Sao Paulo,-23.55,-46.63,Samsung,65,2016,3082.88,1180
+Sao Paulo,-23.55,-46.63,Samsung,55,2016,3097.33,1195
+Sao Paulo,-23.55,-46.63,LG,55,2016,2780.16,1207
+Sao Paulo,-23.55,-46.63,LG,32,2016,2307.25,1297
+Sao Paulo,-23.55,-46.63,Sony,65,2016,3111.44,1264
+Sao Paulo,-23.55,-46.63,Sony,32,2016,2226.82,1366
+Sao Paulo,-23.55,-46.63,LG,32,2016,2271.74,1290
+Sao Paulo,-23.55,-46.63,Sony,55,2016,2995.05,1264
+Sao Paulo,-23.55,-46.63,LG,55,2017,2805.38,1156
+Sao Paulo,-23.55,-46.63,Samsung,65,2017,2457.74,1269
+Sao Paulo,-23.55,-46.63,Sony,32,2017,2251.63,1352
+Sao Paulo,-23.55,-46.63,LG,32,2017,2385.58,1296
+Sao Paulo,-23.55,-46.63,LG,55,2017,2754.71,1294
+Sao Paulo,-23.55,-46.63,Sony,32,2017,2199.65,1363
+Sao Paulo,-23.55,-46.63,Samsung,55,2017,2749.66,1254
+Sao Paulo,-23.55,-46.63,Samsung,43,2017,2343.67,1386
+Sao Paulo,-23.55,-46.63,Sony,32,2017,2137.58,1405
+Sao Paulo,-23.55,-46.63,LG,43,2017,2547.52,1259
+Sao Paulo,-23.55,-46.63,LG,55,2018,2860.7,1323
+Sao Paulo,-23.55,-46.63,LG,55,2018,2761.57,1368
+Sao Paulo,-23.55,-46.63,LG,43,2018,2429.42,1412
+Sao Paulo,-23.55,-46.63,Sony,65,2018,3039.8,1335
+Sao Paulo,-23.55,-46.63,Samsung,65,2018,2899.61,1346
+Sao Paulo,-23.55,-46.63,Samsung,43,2018,2616.89,1466
+Sao Paulo,-23.55,-46.63,Sony,55,2018,2678.54,1442
+Sao Paulo,-23.55,-46.63,Samsung,55,2018,2713.18,1389
+Sao Paulo,-23.55,-46.63,Samsung,43,2018,2386.11,1388
+Sao Paulo,-23.55,-46.63,Sony,43,2018,2490.09,1447
+Sao Paulo,-23.55,-46.63,Sony,32,2019,2160.51,1536
+Sao Paulo,-23.55,-46.63,Sony,55,2019,2691.83,1449
+Sao Paulo,-23.55,-46.63,Sony,32,2019,1984.89,1503
+Sao Paulo,-23.55,-46.63,Sony,32,2019,1906.84,1579
+Sao Paulo,-23.55,-46.63,Sony,43,2019,2284.48,1564
+Sao Paulo,-23.55,-46.63,Samsung,55,2019,2682.41,1476
+Sao Paulo,-23.55,-46.63,Sony,55,2019,2318.81,1521
+Sao Paulo,-23.55,-46.63,LG,55,2019,2640.41,1433
+Sao Paulo,-23.55,-46.63,Samsung,43,2019,2513.15,1484
+Sao Paulo,-23.55,-46.63,LG,55,2019,2707.77,1406
+Sao Paulo,-23.55,-46.63,Sony,65,2020,2972.92,1520
+Sao Paulo,-23.55,-46.63,Samsung,65,2020,2926.61,1469
+Sao Paulo,-23.55,-46.63,Sony,55,2020,2679.78,1576
+Sao Paulo,-23.55,-46.63,Sony,43,2020,2146.12,1603
+Sao Paulo,-23.55,-46.63,Sony,65,2020,2681.66,1589
+Sao Paulo,-23.55,-46.63,Samsung,55,2020,2544.39,1549
+Sao Paulo,-23.55,-46.63,Samsung,43,2020,2068.4,1652
+Sao Paulo,-23.55,-46.63,LG,55,2020,2636.68,1511
+Sao Paulo,-23.55,-46.63,LG,55,2020,2551.95,1572
+Sao Paulo,-23.55,-46.63,LG,65,2020,2994.84,1444
+Sao Paulo,-23.55,-46.63,LG,32,2021,1779.21,1682
+Sao Paulo,-23.55,-46.63,Samsung,65,2021,2753.4,1588
+Sao Paulo,-23.55,-46.63,LG,32,2021,1905.61,1587
+Sao Paulo,-23.55,-46.63,Samsung,32,2021,1974.02,1727
+Sao Paulo,-23.55,-46.63,LG,55,2021,2427.01,1656
+Sao Paulo,-23.55,-46.63,LG,32,2021,1917.31,1667
+Sao Paulo,-23.55,-46.63,Samsung,43,2021,2231.56,1632
+Sao Paulo,-23.55,-46.63,LG,32,2021,1708.46,1697
+Sao Paulo,-23.55,-46.63,Samsung,43,2021,2125.59,1659
+Sao Paulo,-23.55,-46.63,Samsung,55,2021,2542.05,1591
+Sao Paulo,-23.55,-46.63,Samsung,65,2022,2694.94,1737
+Sao Paulo,-23.55,-46.63,Sony,55,2022,2601.05,1773
+Sao Paulo,-23.55,-46.63,Samsung,43,2022,2247.11,1743
+Sao Paulo,-23.55,-46.63,LG,55,2022,2290.4,1712
+Sao Paulo,-23.55,-46.63,Sony,65,2022,2585.81,1777
+Sao Paulo,-23.55,-46.63,LG,43,2022,2378.11,1665
+Sao Paulo,-23.55,-46.63,Samsung,43,2022,2118.93,1736
+Sao Paulo,-23.55,-46.63,LG,65,2022,2875.05,1612
+Sao Paulo,-23.55,-46.63,Samsung,55,2022,2306.71,1731
+Sao Paulo,-23.55,-46.63,Samsung,32,2022,1767.53,1757
+Sao Paulo,-23.55,-46.63,Samsung,32,2023,1779.48,1908
+Sao Paulo,-23.55,-46.63,LG,32,2023,1783.42,1723
+Sao Paulo,-23.55,-46.63,Samsung,65,2023,2605.54,1728
+Sao Paulo,-23.55,-46.63,Samsung,32,2023,1795.26,1888
+Sao Paulo,-23.55,-46.63,LG,43,2023,2100.58,1772
+Sao Paulo,-23.55,-46.63,LG,65,2023,2902.82,1602
+Sao Paulo,-23.55,-46.63,LG,32,2023,1738.52,1812
+Sao Paulo,-23.55,-46.63,Sony,32,2023,1890.96,1851
+Sao Paulo,-23.55,-46.63,Samsung,32,2023,1974.53,1825
+Sao Paulo,-23.55,-46.63,Sony,65,2023,2685.9,1764
+Sao Paulo,-23.55,-46.63,Samsung,43,2024,2051.59,1882
+Sao Paulo,-23.55,-46.63,Sony,65,2024,2217.37,1849
+Sao Paulo,-23.55,-46.63,LG,32,2024,1705.51,1877
+Sao Paulo,-23.55,-46.63,Samsung,55,2024,2187.23,1834
+Sao Paulo,-23.55,-46.63,LG,65,2024,2855.26,1756
+Sao Paulo,-23.55,-46.63,LG,32,2024,1587.62,1822
+Sao Paulo,-23.55,-46.63,LG,43,2024,1885.32,1866
+Sao Paulo,-23.55,-46.63,Samsung,65,2024,2470.7,1846
+Sao Paulo,-23.55,-46.63,Sony,43,2024,2097.62,1865
+Sao Paulo,-23.55,-46.63,LG,55,2024,2214.97,1861
+Rio de Janeiro,-22.91,-43.17,LG,32,2015,2093.54,987
+Rio de Janeiro,-22.91,-43.17,Sony,55,2015,2966.94,977
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2015,2726.13,957
+Rio de Janeiro,-22.91,-43.17,LG,32,2015,2590.07,1029
+Rio de Janeiro,-22.91,-43.17,LG,32,2015,2161.02,1053
+Rio de Janeiro,-22.91,-43.17,Sony,32,2015,2101.62,1050
+Rio de Janeiro,-22.91,-43.17,LG,32,2015,2284.64,955
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2015,2468.15,958
+Rio de Janeiro,-22.91,-43.17,LG,43,2015,2619.63,983
+Rio de Janeiro,-22.91,-43.17,LG,32,2015,2272.11,954
+Rio de Janeiro,-22.91,-43.17,Sony,32,2016,2033.3,1064
+Rio de Janeiro,-22.91,-43.17,LG,55,2016,2635.7,1059
+Rio de Janeiro,-22.91,-43.17,Sony,65,2016,3258.58,1030
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2016,2929.87,1027
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2016,2428.5,1079
+Rio de Janeiro,-22.91,-43.17,Sony,65,2016,2982.57,996
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2016,2527.98,1060
+Rio de Janeiro,-22.91,-43.17,Sony,55,2016,2818.99,1080
+Rio de Janeiro,-22.91,-43.17,Samsung,32,2016,2472.78,1103
+Rio de Janeiro,-22.91,-43.17,Samsung,55,2016,3067.54,972
+Rio de Janeiro,-22.91,-43.17,LG,43,2017,2465.2,1066
+Rio de Janeiro,-22.91,-43.17,Sony,65,2017,2979.27,1039
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2017,2682.52,1059
+Rio de Janeiro,-22.91,-43.17,Samsung,55,2017,2646.19,1070
+Rio de Janeiro,-22.91,-43.17,Sony,43,2017,2449.22,1224
+Rio de Janeiro,-22.91,-43.17,Samsung,32,2017,2329.9,1130
+Rio de Janeiro,-22.91,-43.17,Sony,32,2017,2112.93,1186
+Rio de Janeiro,-22.91,-43.17,LG,43,2017,2329.59,1123
+Rio de Janeiro,-22.91,-43.17,Samsung,55,2017,2844.03,1137
+Rio de Janeiro,-22.91,-43.17,LG,65,2017,2948.76,1050
+Rio de Janeiro,-22.91,-43.17,Sony,55,2018,2698.5,1166
+Rio de Janeiro,-22.91,-43.17,Sony,55,2018,2749.55,1176
+Rio de Janeiro,-22.91,-43.17,LG,55,2018,2369.41,1072
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2018,2404.07,1189
+Rio de Janeiro,-22.91,-43.17,Sony,43,2018,2391.51,1300
+Rio de Janeiro,-22.91,-43.17,Sony,55,2018,2720.46,1170
+Rio de Janeiro,-22.91,-43.17,LG,65,2018,2625.62,1137
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2018,2708.66,1122
+Rio de Janeiro,-22.91,-43.17,Sony,32,2018,1975.2,1264
+Rio de Janeiro,-22.91,-43.17,LG,43,2018,2013.07,1213
+Rio de Janeiro,-22.91,-43.17,LG,43,2019,2297.33,1121
+Rio de Janeiro,-22.91,-43.17,Sony,55,2019,2819.94,1126
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2019,2158.0,1296
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2019,2945.59,1208
+Rio de Janeiro,-22.91,-43.17,Sony,65,2019,2854.56,1249
+Rio de Janeiro,-22.91,-43.17,LG,43,2019,2513.56,1168
+Rio de Janeiro,-22.91,-43.17,LG,55,2019,2631.66,1124
+Rio de Janeiro,-22.91,-43.17,Samsung,32,2019,2205.12,1271
+Rio de Janeiro,-22.91,-43.17,Sony,32,2019,2041.43,1345
+Rio de Janeiro,-22.91,-43.17,LG,43,2019,2173.79,1267
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2020,2336.8,1380
+Rio de Janeiro,-22.91,-43.17,Samsung,32,2020,2098.68,1438
+Rio de Janeiro,-22.91,-43.17,Sony,55,2020,2455.32,1351
+Rio de Janeiro,-22.91,-43.17,LG,32,2020,1920.99,1276
+Rio de Janeiro,-22.91,-43.17,LG,65,2020,2874.03,1193
+Rio de Janeiro,-22.91,-43.17,LG,43,2020,2258.63,1274
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2020,2631.22,1290
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2020,2894.93,1235
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2020,2763.45,1253
+Rio de Janeiro,-22.91,-43.17,Sony,43,2020,2412.45,1269
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2021,2158.05,1399
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2021,2964.29,1353
+Rio de Janeiro,-22.91,-43.17,Samsung,55,2021,2287.79,1404
+Rio de Janeiro,-22.91,-43.17,LG,65,2021,2524.21,1316
+Rio de Janeiro,-22.91,-43.17,Sony,65,2021,2848.41,1362
+Rio de Janeiro,-22.91,-43.17,Sony,65,2021,2986.04,1390
+Rio de Janeiro,-22.91,-43.17,Sony,43,2021,2167.38,1416
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2021,2229.13,1427
+Rio de Janeiro,-22.91,-43.17,Sony,32,2021,1990.46,1404
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2021,2986.61,1279
+Rio de Janeiro,-22.91,-43.17,Samsung,32,2022,1599.32,1574
+Rio de Janeiro,-22.91,-43.17,Sony,32,2022,1852.63,1537
+Rio de Janeiro,-22.91,-43.17,Sony,65,2022,2882.38,1398
+Rio de Janeiro,-22.91,-43.17,LG,32,2022,1806.25,1426
+Rio de Janeiro,-22.91,-43.17,Samsung,55,2022,2493.39,1436
+Rio de Janeiro,-22.91,-43.17,LG,55,2022,2531.98,1360
+Rio de Janeiro,-22.91,-43.17,Sony,55,2022,2219.81,1528
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2022,2027.18,1546
+Rio de Janeiro,-22.91,-43.17,LG,43,2022,2300.67,1401
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2022,2673.59,1408
+Rio de Janeiro,-22.91,-43.17,LG,43,2023,2122.2,1441
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2023,2233.17,1522
+Rio de Janeiro,-22.91,-43.17,Sony,32,2023,1779.36,1544
+Rio de Janeiro,-22.91,-43.17,Sony,32,2023,1574.68,1612
+Rio de Janeiro,-22.91,-43.17,Samsung,55,2023,2329.0,1368
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2023,2263.13,1467
+Rio de Janeiro,-22.91,-43.17,Sony,32,2023,1611.4,1656
+Rio de Janeiro,-22.91,-43.17,Sony,55,2023,2438.51,1609
+Rio de Janeiro,-22.91,-43.17,Samsung,43,2023,2049.02,1491
+Rio de Janeiro,-22.91,-43.17,Sony,32,2023,1896.48,1566
+Rio de Janeiro,-22.91,-43.17,Sony,65,2024,2805.08,1534
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2024,2598.61,1591
+Rio de Janeiro,-22.91,-43.17,LG,55,2024,2479.44,1473
+Rio de Janeiro,-22.91,-43.17,Sony,43,2024,2103.96,1649
+Rio de Janeiro,-22.91,-43.17,LG,55,2024,2142.04,1481
+Rio de Janeiro,-22.91,-43.17,LG,32,2024,1494.86,1604
+Rio de Janeiro,-22.91,-43.17,LG,32,2024,1757.99,1483
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2024,2560.58,1607
+Rio de Janeiro,-22.91,-43.17,Samsung,65,2024,2526.4,1595
+Rio de Janeiro,-22.91,-43.17,LG,43,2024,2119.5,1542

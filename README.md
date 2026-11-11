@@ -1,19 +1,19 @@
-# Previsão de vendas de TVs por ano (ML com treino dinâmico)
+# Análise e previsão de vendas de TVs por ano
 
-App em Streamlit que analisa vendas de TVs por cidade e ano, treina um modelo de regressão e prevê vendas futuras.
+Aplicação web (Streamlit) para enviar uma base de dados, visualizar gráficos e fazer previsões com machine learning.
 
 ## Funcionalidades
-- Análise de dados (pandas) com limpeza e estatísticas descritivas
-- Gráficos de barra e pizza (seaborn/matplotlib) e gráfico interativo (plotly)
-- Escolha do modelo (Regressão Linear ou Random Forest) e ajuste de parâmetros
-- **Upload / treino dinâmico**: envie um CSV com novos dados (ex.: nova cidade) na barra lateral,
-  clique em "Incorporar dados" e depois em "Treinar / Re-treinar modelo"
-- Predição a partir de cidade, ano e preço médio da TV
+- **Upload** de arquivos `.csv`, `.json` ou `.xml` (colunas obrigatórias: `cidade`, `latitude`, `longitude`, `vendas`;
+  as demais colunas, como `marca`, `tamanho`, `ano` e `preco_medio`, são usadas automaticamente no modelo)
+- **Análise de dados** com pandas (limpeza e estatísticas descritivas)
+- **Gráficos:** barra e pizza (matplotlib/seaborn), mapa de vendas por cidade, linha e dispersão interativos (plotly)
+- **Modelos configuráveis:** Regressão Linear, Árvore de Decisão (profundidade), KNN (nº de vizinhos) e Random Forest (árvores e profundidade)
+- **Treino dinâmico:** ao enviar uma nova base, basta clicar em "Treinar / Re-treinar modelo"
+- **Predição** com formulário montado automaticamente a partir das colunas da base
 
 ## Estrutura
 - `app.py` – aplicação
-- `gerar_dados.py` – gera `dados.csv` de exemplo
-- `dados.csv` – base de dados (colunas: cidade, ano, preco_medio, vendas)
+- `gerar_dados.py` – gera a base de exemplo (`dados.csv`, `dados.json`, `dados.xml`; dados sintéticos)
 
 ## Como rodar
 ```
@@ -23,4 +23,4 @@ streamlit run app.py
 ```
 
 ## Divisão de tarefas
-Preencher com os nomes da equipe (ex.: dados, modelagem, interface, documentação).
+Preencher com os nomes da equipe.
